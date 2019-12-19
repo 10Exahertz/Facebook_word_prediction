@@ -101,6 +101,8 @@ Information on how to train the GPT-2 to fine-tune it on a document can be found
 
 It will take about an hour to fine tune for 1 epoch, this gave us perplexities of 100-98
 
+We include in this github parts of two finetuned models, they are however missing pytorch_bin.bin due to github file size limitations. we recommend making these models on your own as per the tutorial linked above, use the ones given here as a reference for it being done correctly.
+
 ## GPT-2 Next word prediction and text generation
 Just as in the other two methods for N-gram and LSTM
 The script can be found on GPT2_next_word_test.py:
