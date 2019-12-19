@@ -98,11 +98,7 @@ def Gboard_add(Gboard_file, other_file, output_file):
         
 #text = "the new joker movie is really good u should"
 #print(text)
-#print(next_word(model_loaded,text))
-#print(document_word_test("Steven_setup/Steven_Rina_ext_messages.txt", model_loaded, 'Steven_setup/Steven_Rina_Extrinsic_test0.75.txt'))
-#print(next_word(model_loaded, text))
-            
-print(Gboard_add('Steven_setup/Steven_Rina_ext_GBoard_test.txt','Steven_setup/Steven_Rina_Extrinsic_testGPT2.txt', 'Gboard_GPT2_S_R_test.txt'))
+
 
 print("--- %s seconds ---" % (time.time() - start_time))
 
