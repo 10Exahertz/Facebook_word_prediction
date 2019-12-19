@@ -147,7 +147,7 @@ def model_iterator(n):
         import pandas as pd
         DF = pd.DataFrame(perp)
         return DF
-with io.open('Steven_setup/Rina_Text.txt', encoding='utf8') as fin:
+with io.open('filename.txt', encoding='utf8') as fin:
     text = fin.read()
 #with io.open('Steven_setup/Bobby_test.txt', encoding='utf8') as fin:
 #    test_text = fin.read()
