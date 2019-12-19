@@ -23,7 +23,7 @@ except: # Use a naive sentence tokenizer and toktok.
 start_time = time.time()    
     
     
-with open('Steven_Rina_KN0.75_4gram_model.pkl', 'rb') as fin:
+with open('model.pkl', 'rb') as fin:
     model_loaded = pickle.load(fin)
 def next_word(model, text):
     tokenized_test = [list(map(str.lower, word_tokenize(sent))) for sent in sent_tokenize(text)]
