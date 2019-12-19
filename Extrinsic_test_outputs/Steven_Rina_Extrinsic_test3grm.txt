@@ -1,0 +1,7 @@
+peace,['i', 'yeah', '<unk>'],False
+venmo,['a', 'i', 'yeah'],False
+bro,['nah', 'for', 'u'],False
+bro,['to', 'i', 'yeah'],False
+then,['lmao', 'and', 'yeah'],False
+classic,['one', 'time', 'no'],False
+scarfs,['world', 'life', 'but'],False

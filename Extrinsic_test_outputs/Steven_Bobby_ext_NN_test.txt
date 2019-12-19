@@ -1,0 +1,136 @@
+run,['can', 'thing', 'book'],False
+work,['the', 'u', 'ur'],False
+possible,['rip', 'head', 'total'],False
+9,['least', '10', 'play'],False
+stromboli,['g', 'fuck', 'nah'],False
+right,['wise', 'idea', 'mind'],False
+night,['the', 'show', 'see'],False
+alone,['g', 'being', 'for'],False
+0.125%,['in'],False
+run,['can', 'book', 'hunter'],False
+work,['the', 'u', 'this'],False
+possible,['rip', 'head', 'total'],False
+9,['least', 'play', '9'],True
+stromboli,['g', 'fuck', 'no'],False
+right,['wise', 'idea', 'spray'],False
+night,['the', 'show', 'make'],False
+alone,['g', 'nice', 'being'],False
+0.125%,['in'],False
+it,['and'],False
+the,['legit', 'just', 'p'],False
+right,['g', 'yh', 'lmaoo'],False
+growth,['how', 'what', 'wut'],False
+shit,['need', 'stupid', 'no'],False
+af,['is', 'tht', 'yh'],False
+page,['g', 'story', 'guy'],False
+else,['gonna'],False
+think,['g', 'like', 'to'],False
+it,['but'],False
+cool,['got', 'agreed', 'g'],False
+ones,['bro', 'single', 'fucking'],False
+journey,['lil', 'black', 'new'],False
+there,['more'],False
+feel,['yelling', 'way', 'snow'],False
+cool,['hes'],False
+like,['remembered', 'see', 'left'],False
+in,['to', 'home', 'the'],False
+run,['book', 'thing', 'can'],False
+work,['the', 'u', 'this'],False
+possible,['head', 'rip', 'total'],False
+9,['least', 'play', '10'],False
+stromboli,['g', 'fuck', 'no'],False
+right,['wise', 'idea', 'feet'],False
+night,['the', 'show', 'make'],False
+alone,['g', 'being', 'nice'],False
+0.125%,['in'],False
+it,['and'],False
+the,['legit', 'just', 'p'],False
+right,['g', 'yh', 'life'],False
+growth,['how', 'what', 'just'],False
+shit,['need', 'stupid', 'stop'],False
+af,['is', 'tht', 'that'],False
+page,['g', 'same', 'tho'],False
+else,['gonna'],False
+think,['g', 'like', 'to'],False
+it,['but'],False
+cool,['agreed', 'got', 'g'],False
+ones,['bro', 'single', 'kinda'],False
+journey,['lil', 'black', 'new'],False
+there,['more'],False
+feel,['way', 'yelling', 'g'],False
+cool,['hes'],False
+like,['want', 'left', 'think'],False
+in,['to', 'home', 'the'],False
+you,['youtube', 'my', 'i'],False
+age,['"'],False
+like,['the', 'u', 'g'],False
+guy,['g'],False
+through,['lol', 'norm', 'bro'],False
+dope,['you', 'u', 'she'],False
+moon,['that', 'roman', 'dude'],False
+days,['days', 'thing', "'"],True
+universe,['story', 'film', 'name'],False
+boi,['the', 'of', 'who'],False
+card,['were', 'yeah', 'g'],False
+fun,['need', "can't", 'take'],False
+still,['italian', 'doing', 'ass'],False
+it,['i'],False
+tom,['g', 'thing', 'alot'],False
+too,['a', 'not', 'in'],False
+reason,['g', 'watch', 'bro'],False
+flirted,['responded', 'making', 'had'],False
+desperate,['im'],False
+signs,['him', 'me', 'a'],False
+fuck,['and', 'at', 'or'],False
+sentence,['her', 'him', 'to'],False
+hard,['not', 'asking', 'going'],False
+great,['interesting', 'called', 'gonna'],False
+mission,['for', 'lol', 'out'],False
+like,['ur', 'last', 'tht'],False
+home,['sent', 'got', 'need'],False
+lol,['g', 'with', 'while'],False
+out,['out', 'in', 'scene'],True
+shit,['to', 'for', "'"],False
+night,['we'],False
+night,['night', 'knight', 'knights'],True
+opp,['more'],False
+imo,['at', 'a', 'so'],False
+before,['lmaooo', 'exactly', 'why'],False
+vid,['vid', 'video', 'ep'],True
+fever,['g', 'oh', 'come'],False
+her,['to', 'me', 'a'],False
+stupid,['thing', 'used', 'like'],False
+too,['https', 'cygnus', 'someone'],False
+died,['caesar', 'kewl', 'yo'],False
+me,['g', 'but', '.'],False
+italian,['the', 'see', 'just'],False
+hot,['of'],False
+THOSE,['to', 'the', 'g'],False
+em,['but', 'i', 'to'],False
+bra,['to', '?', 'g'],False
+about,['already', 'feel', 'like'],False
+before?,['story', "'", 'yeah'],False
+rn,['so', 'lmao', 'lmaoo'],False
+later,['lotf', 'season', '11'],False
+dope,['fine', 'amazing', 'between'],False
+u,['guys', 'g', 'characters'],False
+stuff,['wars', 'and', 'the'],False
+head,['mind', 'head', 'view'],True
+progress,['that', 'thinking', 'u'],False
+somewhere,['to', 'in', 'going'],False
+brain,['work', 'sleep', 'time'],False
+Man,['distance', 'one', 'line'],False
+know,['know', 'think', 'get'],True
+idea,['wanna', 'saved', 'reverse'],False
+series,['is', 'g', 'from'],False
+ended,['any', 'a', 'the'],False
+point,['.', 'g', 'lmao'],False
+imo,['big', 'suits', 'new'],False
+up,['of', ')', 'g'],False
+tht,['g', 'i', 'u'],False
+again,['theyd', 'far', 'theyre'],False
+imo,['more', 'bc', 'not'],False
+lol,['so', 'i', 'g'],False
+machina,['ot', '.', 'to'],False
+going,['think', 'done', 'mean'],False
+great,['basically', 'mostly', 'gone'],False
